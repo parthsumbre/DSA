@@ -5,5 +5,4 @@ def printNos(N):
             printNos(N-1)
             print(N)
 
-printNos(100
-)
+printNos(100)
