@@ -9,5 +9,5 @@ def list_product(lst): # function
     else:
         return lst[len(lst)-1] * list_product(lst[:len(lst)-1]) # Recursive
 
-lst = [1,2,3,4,5,6]
+lst = [3, 3, 167]
 print(list_product(lst))

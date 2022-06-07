@@ -6,6 +6,6 @@ def decimal_binary(num):
         print(r, end='')
         decimal_binary(num//2)
 
-num= 10
+num= 9307918749
 
 decimal_binary(num)
